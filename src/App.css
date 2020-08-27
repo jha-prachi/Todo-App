@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+body{
+  background-color: #81d4fa;
+}
+.app {
+  text-align: center;
+  background-color:#80cbc4;
+  min-height:500px;
+  width: 900px;
+  margin: 60px auto;
+ 
+}
+.header-to-do{
+  margin:10px auto 10px 10px;
+  padding:40px;
+}
+#to-do-form input{
+  background-color: rgba(27, 112, 137, 1);
+  border: 0; 
+  color: #fff;
+  width: 500px;
+  height: 50px;
+  margin: 20px;
+  margin-left: auto;
+  padding: 0 20px;
+  font-family: 'Lobster', cursive;
+  font-size: 18px;
+  border-radius: 10px;
+}
+#to-do-form button{
+  height: 10px;
+  padding:40px;
+  /* width: 20px; */
+  text-decoration-color: aqua;
+  border-radius: 20px;
+  border: 0;
+  background-color:#f50057;
+  /* color:"white"; */
+   color:#fff; 
+  cursor: pointer;
+}
+#to-do-form button:focus{
+  outline: none;
+  
+}

@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+body{
+    text-align: center;
+}
+#simple-modal-title{
+    text-align: justify;
+    /* font-family: 'Balsamiq Sans', cursive; */
+}
+.add-list-css
+/* .todo_list */
+{
+     color: #fff;
+    width: auto;
+    margin: 20px auto;
+    height: auto;
+    background-color: #bf07ac;
+    border-radius: 15px;
+    padding:10px auto;
+    font-family: 'Lobster', cursive;  
+
+}
+.to-do-deco{
+     padding: 10px;
+    position: relative;
+    
+}
+.pen{
+    
+        position: absolute;
+        right: 90px;
+    
+}
+.pencil{
+    right: 100px;
+}
